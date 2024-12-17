@@ -1,9 +1,12 @@
-Ignite Teams - React Native - Rocketseat
-![imgTela](https://github.com/user-attachments/assets/a61ecefa-e4f4-4ee3-9f8c-f02de9f0e88a)
+# Ignite Teams - React Native 🚀
+Aplicativo para adicionar e remover pessoas de uma lista de evento. <br>
+Desenvolvido com React Native durante o curso Ignite da Rocketseat.
+## 📸 Tela do Aplicativo
 
-Adicionar e remover pessoas de uma lista de um evento. 
+<img src="https://github.com/user-attachments/assets/a61ecefa-e4f4-4ee3-9f8c-f02de9f0e88a" width="300" />
 
-Para rodar o aplicativo, digitar no terminal: 
-npm i
-npx expo start
+### Para rodar o aplicativo, digitar no terminal:  
+`npm i` **(instala as dependências)**  
+`npx expo start` **(inicia o servidor do projeto)**
+
 
