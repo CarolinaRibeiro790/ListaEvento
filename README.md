@@ -1,4 +1,4 @@
-# Ignite IMHERE 🚀
+# Ignite Imhere 🚀
 Aplicativo para adicionar e remover pessoas de uma lista de evento. <br>
 Desenvolvido com React Native durante o curso Ignite da Rocketseat.
 ## 📸 Tela do Aplicativo
